@@ -102,8 +102,10 @@ Configured mailboxes and tested communication flow.
 
 ![Shared Mailbox](screenshots/exchange-shared-mailbox.png)
 ![Distribution List](screenshots/exchange-distribution-list.png)
+![Distribution List](screenshots/exchange-distribution-list2.png)
 ![Email Test](screenshots/exchange-email-test.png)
 ![Malware Policy](screenshots/malware-policy.png)
+![Malware Policy](screenshots/malware-policy2.png)
 
 ---
 
@@ -112,6 +114,7 @@ Configured mailboxes and tested communication flow.
 Configured document management and sharing policies.
 
 ![Active Site](screenshots/sharepoint-active-site.png)
+![Active Site](screenshots/sharepoint-active-site2.png)
 ![Document Library](screenshots/sharepoint-document-library.png)
 ![Permissions](screenshots/sharepoint-permissions.png)
 ![OneDrive Sharing Policy](screenshots/onedrive-sharing-policy.png)
