@@ -82,7 +82,7 @@ Configured organization branding and user experience settings.
 ![Organization Theme](screenshots/org-theme.png)
 ![Logo Redirect](screenshots/org-logo-link.png)
 ![Helpdesk Info](screenshots/helpdesk-info.png)
-![Targeted Release](screenshots/targete-release-info.png)
+![Targeted Release](screenshots/targeat-release-info.png)
 
 ---
 
@@ -116,7 +116,7 @@ Configured document management and sharing policies.
 ![Active Site](screenshots/sharepoint-active-site.png)
 ![Active Site](screenshots/sharepoint-active-site2.png)
 ![Document Library](screenshots/sharepoint-document-library.png)
-![Permissions](screenshots/sharepoint-permissions.png)
+<!-- ![Permissions](screenshots/sharepoint-permissions.png) -->
 ![OneDrive Sharing Policy](screenshots/onedrive-sharing-policy.png)
 
 
