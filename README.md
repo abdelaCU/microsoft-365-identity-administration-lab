@@ -82,7 +82,7 @@ Configured organization branding and user experience settings.
 ![Organization Theme](screenshots/org-theme.png)
 ![Logo Redirect](screenshots/org-logo-link.png)
 ![Helpdesk Info](screenshots/helpdesk-info.png)
-![Targeted Release](screenshots/targeted-release.png)
+![Targeted Release](screenshots/targete-release-info.png)
 
 ---
 
@@ -91,8 +91,8 @@ Configured organization branding and user experience settings.
 Automated user creation and license assignment using PowerShell.
 
 ![PowerShell Connection](screenshots/powershell-connect.png)
-![Create Users](screenshots/powershell-create-users.png)
-![Assign Licenses](screenshots/powershell-license.png)
+![Create Users](screenshots/powershell-create-user.png)
+![Assign Licenses](screenshots/powershell-licence.png)
 
 ---
 
@@ -103,7 +103,7 @@ Configured mailboxes and tested communication flow.
 ![Shared Mailbox](screenshots/exchange-shared-mailbox.png)
 ![Distribution List](screenshots/exchange-distribution-list.png)
 ![Distribution List](screenshots/exchange-distribution-list2.png)
-![Email Test](screenshots/exchange-email-test.png)
+![Email Test](screenshots/exchange-mail-test.png)
 ![Malware Policy](screenshots/malware-policy.png)
 ![Malware Policy](screenshots/malware-policy2.png)
 
