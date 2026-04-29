@@ -72,6 +72,52 @@ A simulated organization environment was configured to demonstrate enterprise-le
 
 ---
 
+# 📸 Screenshots
+
+## 👥 Identity & Organization
+
+Configured organization branding and user experience settings.
+
+![Organization Logo](screenshots/org-logo.png)
+![Organization Theme](screenshots/org-theme.png)
+![Logo Redirect](screenshots/org-logo-link.png)
+![Helpdesk Info](screenshots/helpdesk-info.png)
+![Targeted Release](screenshots/targeted-release.png)
+
+---
+
+## ⚙️ PowerShell Automation
+
+Automated user creation and license assignment using PowerShell.
+
+![PowerShell Connection](screenshots/powershell-connect.png)
+![Create Users](screenshots/powershell-create-users.png)
+![Assign Licenses](screenshots/powershell-license.png)
+
+---
+
+## 📧 Exchange Online
+
+Configured mailboxes and tested communication flow.
+
+![Shared Mailbox](screenshots/exchange-shared-mailbox.png)
+![Distribution List](screenshots/exchange-distribution-list.png)
+![Email Test](screenshots/exchange-email-test.png)
+![Malware Policy](screenshots/malware-policy.png)
+
+---
+
+## 📁 SharePoint & OneDrive
+
+Configured document management and sharing policies.
+
+![Active Site](screenshots/sharepoint-active-site.png)
+![Document Library](screenshots/sharepoint-document-library.png)
+![Permissions](screenshots/sharepoint-permissions.png)
+![OneDrive Sharing Policy](screenshots/onedrive-sharing-policy.png)
+
+
+
 # 🚀 Skills Demonstrated
 
 * Identity & Access Management (IAM)
