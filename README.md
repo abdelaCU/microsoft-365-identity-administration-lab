@@ -82,7 +82,8 @@ Configured organization branding and user experience settings.
 ![Organization Theme](screenshots/org-theme.png)
 ![Logo Redirect](screenshots/org-logo-link.png)
 ![Helpdesk Info](screenshots/helpdesk-info.png)
-![Targeted Release](screenshots/targeat-release-info.png)
+![Targeted Release](screenshots/target-release-info.png)
+
 
 ---
 
